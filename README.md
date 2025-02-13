@@ -1,4 +1,4 @@
-Tehtävä: Urheilu 1
+#Tehtävä: Urheilu 1
 
 Kehitystehtävänä on määritellä olio-ohjelmointikielille ominainen luokkamäärittely ja periytyminen JavaScript-kielellä.
 
